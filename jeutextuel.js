@@ -68,6 +68,6 @@ else if (choice == "r") { //chemin 12 = FIN
         console.log("tu te fais tuer ! FIN");
     }
     else if (choice == ("v")) { // chemin 122 = FIN
-        console.log("Tu meurs aussi fdp, FIN");
+        console.log("Tu meurs aussi, FIN");
     }
 }
